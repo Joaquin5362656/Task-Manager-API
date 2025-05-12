@@ -8,17 +8,17 @@ Users can register, log in, and manage their tasks (create, get, update and dele
 
 ## Technologies used
 
-- **Flask** (microframework web)
-- **MongoDB Atlas** (base de datos en la nube)
-- **Flask-JWT-Extended** (para la autenticación con JWT)
-- **Flask-PyMongo** (para interactuar con MongoDB)
-- **python-dotenv** (para manejar variables de entorno)
+- **Flask** (web microframework)
+- **MongoDB Atlas** (cloud-based database)
+- **Flask-JWT-Extended** (for JWT authentication)
+- **Flask-PyMongo** (to interact with MongoDB)
+- **python-dotenv** (to manage environment variables)
 
 ---
 
 ## Installation
 
-Sigue estos pasos para configurar y ejecutar el proyecto en tu maquina local:
+Follow these steps to set up and run the project on your local machine:
 
 ### 1. Clone the repository
 
